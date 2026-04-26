@@ -22,6 +22,7 @@ This project analyzes e-commerce transactional sales data to uncover trends, ide
 ---
 
 ## 📂 Dataset
+This project uses a public e-commerce dataset for learning and portfolio purposes.
 The dataset contains transactional sales data, including:
 - Product Name
 - Product Category
