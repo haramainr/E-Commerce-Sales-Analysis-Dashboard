@@ -97,3 +97,6 @@ This project demonstrates the ability to transform raw data into meaningful insi
 - Email: haramainr@gmail.com
 - LinkedIn: https://linkedin.com/in/haramainr
 - GitHub: https://github.com/haramainr
+
+## 👤 Author
+Haramain Rabbany – Aspiring Data Analyst
